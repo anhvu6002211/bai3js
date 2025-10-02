@@ -257,11 +257,4 @@ function checkLeapYear() {
   }
 }
 
-// Gọi các hàm để test (bỏ comment để chạy)
-// calculateInvoice();
-// checkEvenOddAdvanced();
-// calculateBMI();
-// checkLogin();
-// checkLeapYear();
-
 console.log("\n=== KẾT THÚC BUỔI 3 ===");
